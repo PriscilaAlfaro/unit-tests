@@ -1,3 +1,2 @@
-export const findIndex = (array, value) => {
-  return
-}
+export const findIndex = (array, value) => array.indexOf(value);
+
